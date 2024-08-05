@@ -1,0 +1,54 @@
+.p1 {
+height: 360px;
+width: 500px;
+background-color: white;
+box-shadow: 0px 0px 2px;
+}
+
+
+.space{
+height: 50px;
+
+}
+
+.navbar{
+    height: 60px;
+    background-color: lightgray;
+    box-shadow: 0px 2px 5px #777;
+}
+
+.space2 {
+    height: 30px;
+}
+
+.po {
+    height: 80px;
+    width: 250px;
+    background-color: white;
+    box-shadow: 0px 0px 2px;
+}
+
+.pe {
+    height: 80px;
+    width: 250px;
+    background-color: white;
+    box-shadow: 0px 0px 2px;
+}
+
+.pu {
+
+    height: 100px;
+    width: 400px;
+    background-color: white;
+}
+
+.space3{
+
+height: 30px;
+}
+
+.last{
+height: 40px;
+background-color: lightgray;
+box-shadow: 0px 0px 5px;
+}
